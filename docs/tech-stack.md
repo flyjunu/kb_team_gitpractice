@@ -1,3 +1,6 @@
 # Tech Stack
 
-아직 작성 전
+- Language: Python
+- Data: SQL, Airflow
+- MLOps: Kubeflow, Langfuse
+- Serving: vLLM, TensorRT
